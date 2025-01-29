@@ -5,4 +5,5 @@ Started learning C++ a few days ago. Goal is to get a solid foundation in C++ fu
 Learning from [learncpp.com](https://learncpp.com/). Will document my daily progress here.
 
 27/01/2025 - C++ compiler installation and setup
-28/01/2025 - Hello World
+28/01/2025 - wrote helloworld
+29/01/2025 - configured compiler (build configuration, turning of compiler extensions, making warnings into errors, choosing language standard)
