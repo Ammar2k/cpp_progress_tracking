@@ -9,3 +9,4 @@ Learning from [learncpp.com](https://learncpp.com/). Will document my daily prog
 29/01/2025 - configured compiler (build configuration, turning of compiler extensions, making warnings into errors, choosing language standard)
 30/01/2025 - learned c++ basic structure (identifiers, preprocessor directive etc.)
 31/01/2025 - c++ commenting + introduction to objects and variables
+01/02/2025 - variable assignment and initialization
