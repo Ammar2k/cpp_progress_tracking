@@ -11,3 +11,4 @@ Learning from [learncpp.com](https://learncpp.com/). Will document my daily prog
 31/01/2025 - c++ commenting + introduction to objects and variables
 01/02/2025 - variable assignment and initialization
 02/02/2025 - finished variable assignment and initialization lesson
+03/02/2025 - learned about iostream (cout, endl, cin) including buffer and flush
