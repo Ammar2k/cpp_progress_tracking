@@ -13,3 +13,4 @@ Learning from [learncpp.com](https://learncpp.com/). Will document my daily prog
 02/02/2025 - finished variable assignment and initialization lesson
 03/02/2025 - learned about iostream (cout, endl, cin) including buffer and flush
 04/02/2025 - learned about uninitialized variables and undefined behaviour
+06/02/2025 - keywords and naming identifiers
