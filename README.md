@@ -16,3 +16,4 @@ Learning from [learncpp.com](https://learncpp.com/). Will document my daily prog
 06/02/2025 - keywords and naming identifiers
 07/02/2025 - whitespace and basic formatting
 08/02/2025 - introduction to literals and operators
+09/02/2025 - introduction to expressions
