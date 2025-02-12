@@ -17,4 +17,5 @@ Learning from [learncpp.com](https://learncpp.com/). Will document my daily prog
 07/02/2025 - whitespace and basic formatting \
 08/02/2025 - introduction to literals and operators \
 09/02/2025 - introduction to expressions \
-11/02/2025 - developing your first program
+11/02/2025 - developing your first program \
+12/02/2025 - summary of progress as of now
