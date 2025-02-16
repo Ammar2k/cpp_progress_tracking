@@ -19,5 +19,6 @@ Learning from [learncpp.com](https://learncpp.com/). Will document my daily prog
 09/02/2025 - introduction to expressions \
 11/02/2025 - developing your first program \
 12/02/2025 - summary of progress as of now \
-14/02/2025 - functions in cpp - an introduction
-15/02/2025 - value returing functions
+14/02/2025 - functions in cpp - an introduction \
+15/02/2025 - value returing functions \
+16/02/2025 - void functions
