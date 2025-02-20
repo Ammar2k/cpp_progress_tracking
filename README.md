@@ -24,4 +24,5 @@ Learning from [learncpp.com](https://learncpp.com/). Will document my daily prog
 16/02/2025 - void functions \
 17/02/2025 - function arguments \
 18/02/2025 - intro to scoping \
-19/02/2025 - when and why to use functions
+19/02/2025 - when and why to use functions \
+20/02/2025 - 
