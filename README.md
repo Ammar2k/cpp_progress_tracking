@@ -27,4 +27,5 @@ Learning from [learncpp.com](https://learncpp.com/). Will document my daily prog
 19/02/2025 - when and why to use functions \
 20/02/2025 - forward declarations and definitions \
 21/02/2025 - multiple code files \
-22/02/2025 - fixing linker issues with multiple code files + the standard namespace
+22/02/2025 - fixing linker issues with multiple code files + the standard namespace \
+23/02/2025 - preprocessor directives
