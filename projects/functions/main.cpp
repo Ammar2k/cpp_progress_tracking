@@ -1,18 +1,11 @@
 #include <iostream>
 
-int getValueUser()
-{
-    std::cout << "Enter a number: ";
-    int input{ };
-    std::cin >> input;
-    return input;
-}
+
+int add(int x, int y);
 
 int main()
 {
-    int num { getValueUser() };
+    std::cout << "The sum of 3 and 4 is: " << add(3, 4) << "\n";
 
-    std::cout << num << " doubled is: " << num * 2 << ".\n";
-    
     return 0;
 }
